@@ -33,7 +33,7 @@ const defaultMenu = {
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
   footer: '┗━━━━━━━━⬣\n',
-  after: '*This Is a Bot Named Reven Zenin🧡🎗️**in\n+212705117543',
+  after: '*This Is a Bot Named Reven Zenin🧡🎗️*\n+212705117543',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
