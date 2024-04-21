@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'REVEN ZENIN🧡🎗️',
 body: "Welcome To Bot Reven🧡🗝️",
-thumbnailUrl: 'https://telegra.ph/file/164da7a7d64284eeffb38.jpg',
+  let videoUrl = 'https://telegra.ph/file/e15e2a8a4e834e7e144db.mp4';
 sourceUrl: 'https://www.instagram.com/alyaa__zenin?igsh=OGQ5ZDc2ODk2ZA==',
 mediaType: 1,
 renderLargerThumbnail: true
